@@ -1,0 +1,99 @@
+{
+  "lastUploadDate": "2026-04-03",
+  "lastUploadedFilename": "4th week of October 2025.xlsx",
+  "fishCount": 32,
+  "retail_lastUploadFilename": null,
+  "retail_lastUploadDate": "2026-04-03",
+  "retail_lastMergedFilename": null,
+  "retail_lastWeekLabel": "2nd week of June 2025",
+  "retail_lastFilteredFilename": null,
+  "retail_lastFilteredSummaryFilename": null,
+  "retail_lastInterpolatedFilename": null,
+  "retail_lastLongFilename": null,
+  "retail_lastPreprocessDate": "2026-04-03",
+  "retail_lastModelStatus": "Ready",
+  "retail_lastModelName": "Hybrid_ANN_XGBoost",
+  "retail_lastModelTrainedAt": "2026-04-02 13:58:59",
+  "retail_lastModelSource": "Colab",
+  "retail_lastModelWeights": {
+    "ANN": 0.8,
+    "XGBoost": 0.2
+  },
+  "retail_lastModelAnnAlpha": 0.6,
+  "retail_lastModelMetrics": {
+    "ANN": {
+      "MAE": 68.10303342847796,
+      "RMSE": 101.5874076780696,
+      "MSE": 10320.001398750313,
+      "MAPE": 4.4455114266368705,
+      "R2": 0.9846122192739145
+    },
+    "XGBoost": {
+      "MAE": 75.45428093219626,
+      "RMSE": 105.50847633576285,
+      "MSE": 11132.038578694228,
+      "MAPE": 4.929092379647588,
+      "R2": 0.9834014200129843
+    },
+    "Hybrid_ANN_XGBoost": {
+      "MAE": 67.7531652100975,
+      "RMSE": 100.42348705403414,
+      "MSE": 10084.876752091763,
+      "MAPE": 4.417324402720438,
+      "R2": 0.9849628051281488
+    }
+  },
+  "retail_lastPredictionFilename": null,
+  "retail_lastPredictionBatchId": "ba41b7846f7144c0894858236217e427",
+  "retail_lastPredictionDate": "2026-04-03 11:26:29",
+  "retail_latestPredictionWeek": "2nd week of September 2025",
+  "retail_lastPublishedBatchId": "ba41b7846f7144c0894858236217e427",
+  "retail_lastPublishedAt": "2026-04-03 11:26:32",
+  "wholesale_lastUploadFilename": null,
+  "wholesale_lastUploadDate": "2026-04-03",
+  "wholesale_lastMergedFilename": null,
+  "wholesale_lastWeekLabel": "4th week of October 2025",
+  "wholesale_lastFilteredFilename": null,
+  "wholesale_lastFilteredSummaryFilename": null,
+  "wholesale_lastInterpolatedFilename": null,
+  "wholesale_lastLongFilename": null,
+  "wholesale_lastPreprocessDate": "2026-04-03",
+  "wholesale_lastModelStatus": "Ready",
+  "wholesale_lastModelName": "Hybrid_ANN_XGBoost",
+  "wholesale_lastModelTrainedAt": "2026-04-02 18:18:55",
+  "wholesale_lastModelSource": "Colab",
+  "wholesale_lastModelWeights": {
+    "ANN": 0.8,
+    "XGBoost": 0.2
+  },
+  "wholesale_lastModelAnnAlpha": 0.6,
+  "wholesale_lastModelMetrics": {
+    "ANN": {
+      "MAE": 93.22235127232143,
+      "RMSE": 125.60880880781949,
+      "MSE": 15777.572850119352,
+      "MAPE": 9.260124742770962,
+      "R2": 0.9413279031782305
+    },
+    "XGBoost": {
+      "MAE": 104.05508609491682,
+      "RMSE": 138.44637388391007,
+      "MSE": 19167.398441603418,
+      "MAPE": 9.835862071409752,
+      "R2": 0.928722150873879
+    },
+    "Hybrid_ANN_XGBoost": {
+      "MAE": 93.26777007950493,
+      "RMSE": 125.87395828349914,
+      "MSE": 15844.253373956082,
+      "MAPE": 9.158661772348658,
+      "R2": 0.9410799381592861
+    }
+  },
+  "wholesale_lastPredictionFilename": null,
+  "wholesale_lastPredictionBatchId": "05cf1ce9328d47e09adf759b220e4f01",
+  "wholesale_lastPredictionDate": "2026-04-03 11:29:34",
+  "wholesale_latestPredictionWeek": "1st week of November 2025",
+  "wholesale_lastPublishedBatchId": "05cf1ce9328d47e09adf759b220e4f01",
+  "wholesale_lastPublishedAt": "2026-04-03 11:29:37"
+}
